@@ -12,6 +12,10 @@ body {
   height: 100vh;
 }
 
+header {
+  height: 100vh;
+}
+
 .menu {
   background-color: white;
 }
