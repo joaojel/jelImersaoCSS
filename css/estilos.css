@@ -40,7 +40,11 @@ a:hover {
   text-align: center;
 }
 
-.site-subtitle
- {
+.site-subtitle {
   font-style: italic;
+}
+
+.img-portfolio {
+  height: 180px;
+  width: 180px;
 }
